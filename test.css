@@ -1,0 +1,18 @@
+.click {
+    background-color: #0084ff;
+    border-radius: 24px;
+    border: none;
+    color: white;
+    padding: 2px 20px 0;
+    font-size: 19px;
+    height: 40px;
+    text-decoration: none;
+    color: inherit;
+    margin-left: 83px;
+}
+
+.click2 {
+    display:block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
